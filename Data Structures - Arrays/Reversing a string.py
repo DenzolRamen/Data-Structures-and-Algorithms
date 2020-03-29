@@ -41,6 +41,8 @@ def reverse3(string):
 
 # Solution 4 - Pythonic Way 1
 def reverse4(string):
+	# Section for input checking.Start
+	# Section for input checking.End
 	return string[::-1]
 
 # Solution 5 - Pythonic Way 2 (Lambda Function)
